@@ -16,3 +16,6 @@ A brief description of your project and its purpose.
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Munendrakushwaha
 )
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Munendrakushwaha&show_icons=true&theme=tokyonight)
+
