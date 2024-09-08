@@ -14,3 +14,4 @@ I’m a software developer passionate about open-source, web development, and so
 A brief description of your project and its purpose.  
 ![Project GIF or Screenshot](https://yourprojectlink.com/demo.gif)
 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)
