@@ -4,6 +4,10 @@
 **Munendrakushwaha/Munendrakushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## Hi there, I'm [Your Name] 👋
+
+I’m a software developer passionate about open-source, web development, and solving real-world problems with code. I specialize in [technologies] and am always eager to learn and collaborate.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
