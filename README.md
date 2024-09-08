@@ -1,25 +1,22 @@
-## Hi there 👋
+## Hello, I'm John Doe 👋
 
-**Munendrakushwaha/Munendrakushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer specializing in building modern web applications. I love coding, learning new technologies, and contributing to open-source projects.
 
-Here are some ideas to get you started:
-## Hi there, I'm [Your Name] 👋
+🌱 I’m currently learning Node.js and AWS  
+💬 Ask me about React, JavaScript, and cloud computing  
+👯 I’m looking to collaborate on open-source projects  
+⚡ Fun fact: I’m an amateur photographer!
 
-I’m a software developer passionate about open-source, web development, and solving real-world problems with code. I specialize in [technologies] and am always eager to learn and collaborate.
+## 📈 GitHub Stats
 
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Projects
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Munendrakushwaha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munendrakushwaha&layout=compact)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue)
-![React](https://img.shields.io/badge/React-Expert-green)
+### [Project Name](https://github.com/johndoe/project-name)
+An amazing project description that solves problems in a creative way.  
+![Project GIF](https://user-images.githubusercontent.com/12345678/project.gif)
 
-
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/johndoe)  
+[![Email](https://img.shields.io/badge/Email-me-orange)](mailto:johndoe@gmail.com)
