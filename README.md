@@ -20,6 +20,6 @@ I’m a software developer passionate about open-source, web development, and so
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Munendrakushwaha&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munendrakushwaha&layout=compact)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue)
-![React](https://img.shields.io/badge/React-Intermediate-green)
+![React](https://img.shields.io/badge/React-Expert-green)
 
 
