@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Munendra Kumar Kushwaha 👋
 
 I’m a software developer passionate about open-source, web development, and solving real-world problems with code. I specialize in [technologies] and am always eager to learn and collaborate.
 
